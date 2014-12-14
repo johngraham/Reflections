@@ -9,3 +9,7 @@ The staging area is a logical "bridge" between the workign directory and the rep
 
 How can you use the staging area to make sure you have one commit per logical change?
 By checking with git status, I can see what changes have been added to the staging area. If there are more than one logical change in the staging area, I can remove files from that commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+If code makes major design changes where the code needs to be used or thought of in different ways, branches could help keep that history organized.
