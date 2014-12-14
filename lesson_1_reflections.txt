@@ -22,3 +22,8 @@ Log can show what major changes have been logged from the programmers view, whil
 How might using version control make you more confident to make changes that could break something?
 
 Knowing that you could "back up" to a previous "safe" state would give confidence that if you did something too horrible you could always go back to safety.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I'm going to try to put the project files for learning into Git.
+
