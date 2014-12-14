@@ -13,3 +13,11 @@ By checking with git status, I can see what changes have been added to the stagi
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 If code makes major design changes where the code needs to be used or thought of in different ways, branches could help keep that history organized.
+
+How do the diagrams help you visualize the branch structure?
+
+By showing the direction and placement of when commits happen, it allows the history to be shown like a branch structure.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging takes additions from each file and puts them together.
