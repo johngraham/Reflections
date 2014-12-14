@@ -5,3 +5,7 @@ A new folder called .git is created with files and information for a new reposit
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area is a logical "bridge" between the workign directory and the repository. The working directory is the actual real files being worked on, sitting on your hard drive. The repository are the records of the files wanted to be kept in version control, which come from the real files in the working directory. The staging area allows a scratchpad to list all the files for a commit to the repository, in case a commit has to be done at two different times.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+By checking with git status, I can see what changes have been added to the staging area. If there are more than one logical change in the staging area, I can remove files from that commit.
