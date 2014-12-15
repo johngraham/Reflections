@@ -21,3 +21,7 @@ By showing the direction and placement of when commits happen, it allows the his
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Merging takes additions from each file and puts them together.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Auto merging means it's easier, meaning it will be used often. If manual only, then merges would be too onerous and thus less frequent.
