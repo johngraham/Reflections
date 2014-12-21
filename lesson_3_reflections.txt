@@ -5,3 +5,7 @@ Remote repositories would be useful when I wanted to share, collaborate, or back
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Given that remote repositories can have multiple people who commit, an automatic update might introduce changes that you aren't aware of, nor wanting.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks and clones are similar, they both reproduce repositories. However, forks are specific to Github: they copy the repo on their servers only. Branches are part of a repository, so cloning and forking reproduce all the branches in a repo.
+
