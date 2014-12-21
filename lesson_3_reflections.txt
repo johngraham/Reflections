@@ -7,5 +7,8 @@ Why might you want to always pull changes manually rather than having Git automa
 Given that remote repositories can have multiple people who commit, an automatic update might introduce changes that you aren't aware of, nor wanting.
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
 Forks and clones are similar, they both reproduce repositories. However, forks are specific to Github: they copy the repo on their servers only. Branches are part of a repository, so cloning and forking reproduce all the branches in a repo.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+If you need to use git without internet access, storing remote state locally would allow that. 
